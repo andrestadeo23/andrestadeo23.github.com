@@ -39,7 +39,7 @@ links.forEach(function(link){
 		content.classList.add("animated");
 
 		setInterval(function(){
-			location.href = "/";
+			location.href = "/boletines";
 		},600);
 		
 
